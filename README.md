@@ -5,7 +5,7 @@
 
 **Batch:** B8-2A4E 
 
-**Team Leader:** Sivaneshwaran.M
+**Team Leader:** Sivaneshwaran M
 
 **Team Members:** Hariharan M, Indhuvadhani S, Kavitha M
 
